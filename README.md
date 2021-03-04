@@ -1,4 +1,4 @@
-# Gephi data pipeline
+# Gephi data pipeline 👷🏽‍♂️
 This is a notebook that mines data from twitter and preprocesses it into the right form for network analysis on Gephi
 
 ## Workflow Overview
