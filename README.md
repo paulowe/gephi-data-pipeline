@@ -1,5 +1,5 @@
 # Gephi data pipeline 👷🏽‍♂️
-This is a notebook that mines data from twitter and preprocesses it into the right form for network analysis on Gephi
+This is a notebook that steps through the process of mining data from twitter and preprocessesing it into the right form for network analysis on Gephi
 
 ## Workflow Overview
 1. Identify users in the network by querying for hashtags, parts-of-speech, and other indicators using twint (OSINT)
